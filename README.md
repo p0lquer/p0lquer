@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fundamentals of Architecture**
 
-- 👯 I’m looking to collaborate on [itlafinal-frontend](https://github.com/ElysBactista/itlafinal-frontend)
+<!-- 👯 I’m looking to collaborate on [itlafinal-frontend](https://github.com/ElysBactista/itlafinal-frontend) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/p0lquer?tab=repositories](https://github.com/p0lquer?tab=repositories)
 
