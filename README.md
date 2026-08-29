@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have read a lot of manga**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
