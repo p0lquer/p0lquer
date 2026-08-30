@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p0lquer" alt="p0lquer" /></a> </p> -->
 
-- 🔭 I’m currently working in a new project in Godot(noob) 
+- 🔭 I’m currently working in [https://github.com/p0lquer?tab=repositories](https://github.com/p0lquer/MusicApp)
 
 - 🌱 I’m currently learning **Fundamentals of Architecture chapter 6 CPU**
 
